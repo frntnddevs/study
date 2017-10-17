@@ -1,4 +1,5 @@
 # Git 공부
+[출처: 내블로그](https://chanspark.github.io/2017/08/29/Git을-배워보자.html)
 
 팀원들과 협업할때 가장 중요한 버전관리툴로 Git을 뽑을 수 있겠습니다. 버전관리 툴로는 Mercurial, SVN, Git등 다양한 종류가 있습니다. 
 
